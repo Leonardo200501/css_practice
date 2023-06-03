@@ -1,0 +1,13 @@
+.buttons{
+    font-size: 28px;
+    font-family: "helvetica",'Times New Roman',sans-serif;
+    border-color: #ffd700;
+}
+.b1{
+    color: black;
+    background-color: azure;
+}
+.b2{
+    color: azure;
+    background-color: black;
+}
